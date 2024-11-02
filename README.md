@@ -8,8 +8,13 @@ Data from this website：https://www.gdzwfw.gov.cn/
 It includes the corresponding relationships among sub-networks of stakeholders, items and data, as well as the corresponding relationships among the three layers of stakeholders-items, items-data and stakeholders-data. The specific quantities of data after data processing are as follows:
 
 stakeholders - stakeholders: 3151 pieces
+
 items        -        items: 143250 pieces
+
 data         -         data: 379153 pieces
+
 stakeholders -        items: 4835 pieces
+
 items        -         data: 6302 pieces
+
 data         - stakeholders: 6302 pieces
