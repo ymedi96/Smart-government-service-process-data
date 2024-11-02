@@ -13,7 +13,7 @@ items        -        items: 143250 pieces
 
 data         -         data: 379153 pieces
 
-stakeholders -        items: 4835 pieces
+stakeholders -        items: 4479 pieces
 
 items        -         data: 6302 pieces
 
