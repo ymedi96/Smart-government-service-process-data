@@ -9,7 +9,7 @@ It includes the corresponding relationships among sub-networks of stakeholders, 
 
 stakeholders - stakeholders: 3151 pieces
 
-items        -        items: 143250 pieces
+items        -        items: 143249 pieces
 
 data         -         data: 379153 pieces
 
