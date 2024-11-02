@@ -18,3 +18,5 @@ stakeholders -        items: 4479 pieces
 items        -         data: 6302 pieces
 
 data         - stakeholders: 6302 pieces
+
+Total：542637 pieces
